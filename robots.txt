@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hinogype.github.io/sitemap.html.gz
+Sitemap: https://hinogype.github.io/app/sitemap.html.gz
+Sitemap: https://hinogype.github.io/assets/sitemap.html.gz
+Sitemap: https://hinogype.github.io/css/sitemap.html.gz
+Sitemap: https://hinogype.github.io/includes/sitemap.html.gz
+Sitemap: https://hinogype.github.io/item/sitemap.html.gz
+Sitemap: https://hinogype.github.io/src/sitemap.html.gz
